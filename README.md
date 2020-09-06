@@ -1,6 +1,10 @@
 # data_analysis
 Jupyter notebooks as my way of learning data science
 
+
+!! IMPORTANT NOTE !! - I use JS in my notebooks which does not work here, if you want to read through some, please load the specific notebook in nbviewer:
+https://nbviewer.jupyter.org/
+
 I create these notebooks as "guides" to teach absolute basics of data science. As I am learning each concept I write these notebooks and test them at the same time, thus there will most likely be a lot of mistakes, bad practices and and inefficient code. But, hands on practice is the best way to learn something, so here I am ! Any constructive criticism is more than welcome, as I will get more hands on experience, knowledge, tips and suggestions from the community, I will come back and modify these notebooks.
 
 All datasets I used are open databases from kaggle.com and I would like to give a big thanks to the kagle.com and all the community that makes it much easier to start with this 
