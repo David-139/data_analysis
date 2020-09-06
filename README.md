@@ -25,7 +25,7 @@ Actually the inteded sections are like this:
 
 
 
-2)	Ploting
+2)	Plotting
 
 -	More indepth look into ploting possibilites. We will make some ploting in each of these notebooks needed for the specific part, but here I would like to concetrate some more advanced techniques and visual options. I will focus on Seaborn library (which is based on matplotlib) as it has some nice utility and is really easy to start with (at least for me, I find it much more intuitive than plain matplotlib to be honest)
 
